@@ -1,0 +1,17 @@
+body {
+  font-family: "Almarai", sans-serif;
+}
+p.text-custom {
+  color: blueviolet;
+}
+.img-hander:has(img) {
+  width: 70px;
+  height: 70px;
+}
+.data-list {
+  height: 450px;
+}
+.data-btn {
+  width: 160px;
+}
+
